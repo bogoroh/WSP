@@ -138,7 +138,7 @@ padding: 3em 2%;
 max-width: 100%;
 max-height: 100%;
 text-align:center;
-margin-top: 40px;
+margin-top: 4.123711340206%;
 }
 
 .container {
@@ -187,8 +187,8 @@ color: #e6e1c8;
 }
 
 .contact textarea{
-width:515px;
-height: 250px;
+width:92.79279279279%;
+height: 15em;
 background-color:#fff9de;
 border: 1px solid #000;
 border-radius: 5px;
@@ -221,8 +221,16 @@ border-radius: 0;
 -webkit-appearance: none;
 }
 
-#comment p,#comment h2, label {
-margin-left: 20px;
+label {
+margin-left: 8.968609865471%;
+}
+
+#comment h2 {
+margin-left: 8.968609865471%;
+}
+
+#comment p {
+margin-left: 8.968609865471%;
 }
 
 h3 {
