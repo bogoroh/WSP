@@ -59,8 +59,12 @@ padding-left: 0.512295081%;
 }
 
 header nav ul li a:hover {
-background-color: #7b8d78;
 text-decoration: none;
+background-color: #7b8d78;
+}
+
+.current {
+	background-color: #7b8d78;
 }
 
 ul {
@@ -195,7 +199,7 @@ border-radius: 5px;
 background-color: #e6e1c8;
 display: block;
 padding: auto;
-margin-left: 20px;
+margin-left: 8.96860986554%;
 }
 
 #Name, #email, #tel, #concerning{
