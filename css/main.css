@@ -23,7 +23,7 @@ text-decoration: none;
 max-width: 100%;
 }
 
-h1.logo {
+.logo {
 margin: 0;
 }
 
@@ -151,10 +151,13 @@ width: 74.329501915%;
 color:#8d4529;
 }
 
-.contact #submit{
+.contact {
 margin-left: 0;
 }
 
+#submit {
+margin-left: 0;
+}
 
 #office {
 font-weight:bold; 
@@ -266,7 +269,7 @@ border-radius: 0;
 
 footer {
 text-align: center;
-color: ##3D270B;
+color: #3D270B;
 clear:both;
 padding-top:.5em;
 margin-top: 50px;
